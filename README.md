@@ -22,24 +22,24 @@ Não sendo necessário o conhecimento de codificação para a utilização desta
   - Os ministros podem adicionar novas músicas ao repertório e associá-las a uma data específica de ministração.
     <br>
     <img style="width: 200px;" src="/Images/M_Musicas.jpg">
-    <img style="width: 400px;" src="/Images/Musicas.jpg">
+    <img style="width: 450px;" src="/Images/Musicas.jpg">
 
 - Atas de Reuniões
   - As atas das reuniões podem ser facilmente registradas e revisadas por toda a equipe.
     <br>
     <img style="width: 200px;" src="/Images/M_Reunioes.jpg">
-    <img style="width: 400px;" src="/Images/Reunioes.jpg">
+    <img style="width: 450px;" src="/Images/Reunioes.jpg">
 
 - Diretrizes do Ministério
   - Informações e diretrizes importantes podem ser facilmente visualizadas por todos os membros.
     <br>
     <img style="width: 200px;" src="/Images/M_Home.jpg">
-    <img style="width: 400;" src="/Images/Home.jpg">
+    <img style="width: 450px;" src="/Images/Home.jpg">
 
 - Escala de Ministração
   <br>
     <img style="width: 200px;" src="/Images/M_Escala.jpg">
-    <img style="width: 400px;" src="/Images/Escala.jpg">
+    <img style="width: 450px;" src="/Images/Escala.jpg">
 
 ## Objetivo
 O Worship Ministry tem como objetivo facilitar a organização e o gerenciamento das equipes de louvor, permitindo que se concentrem no mais importante: levar a adoração a um nível superior!
