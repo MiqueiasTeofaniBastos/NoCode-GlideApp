@@ -1,7 +1,12 @@
-# Worship Ministry - NoCode GlideApp
+# Worship Ministry - NoCode GlideApp 
+##### https://worship-ministry.glide.page/
+<img align="left" style="width: 210px;" src="/Images/Resume.gif">
+
 Worship Ministry é um aplicativo criado na plataforma GlideApp para gerenciamento de equipes de louvor de igrejas.
 
 Com o Worship Ministry, os membros de uma equipe podem lidar de forma organizada e eficaz com tarefas e diretrizes do ministério de louvor. Desde o registro de novos membros e repertórios, até a programação dos ministros.
+
+<br>
 
 ## Como ele funciona?
 Worship Ministry funciona como uma solução centralizada para o gerenciamento de equipes de louvor de igrejas. Permite o cadastro de membros, adição de repertório musical por Ministro, registro de atas de reuniões e visualização das diretrizes do próprio ministério.
