@@ -24,5 +24,5 @@ Não sendo necessário o conhecimento de codificação para a utilização desta
 
 - Escala de Ministração
 
-## Como Objetivo
+## Objetivo
 O Worship Ministry tem como objetivo facilitar a organização e o gerenciamento das equipes de louvor, permitindo que se concentrem no mais importante: levar a adoração a um nível superior!
